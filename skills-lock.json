@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "google-ads-api-mcp-setup": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ads/google-ads-api-mcp-setup/SKILL.md",
+      "computedHash": "324d49f2cba8f42847433503fe0ed3af1eb2f933929cc39164e0acb4e34240a7"
+    },
     "hyperframes": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",

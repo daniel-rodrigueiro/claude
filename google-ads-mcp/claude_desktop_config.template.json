@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "google-ads": {
+      "command": "pipx",
+      "args": ["run", "google-ads-mcp"],
+      "env": {
+        "GOOGLE_ADS_DEVELOPER_TOKEN": "PREENCHER",
+        "GOOGLE_ADS_CLIENT_ID": "PREENCHER.apps.googleusercontent.com",
+        "GOOGLE_ADS_CLIENT_SECRET": "PREENCHER",
+        "GOOGLE_ADS_REFRESH_TOKEN": "PREENCHER",
+        "GOOGLE_ADS_LOGIN_CUSTOMER_ID": "ID_DA_MCC_10_DIGITOS_SEM_HIFEN"
+      }
+    }
+  }
+}

@@ -7,6 +7,12 @@
       "skillPath": "skills/ads/google-ads-api-mcp-setup/SKILL.md",
       "computedHash": "324d49f2cba8f42847433503fe0ed3af1eb2f933929cc39164e0acb4e34240a7"
     },
+    "google-ads-manager": {
+      "source": "claude-office-skills/skills",
+      "sourceType": "github",
+      "skillPath": "google-ads-manager/SKILL.md",
+      "computedHash": "821d4199d97cae69dc1ec42a92ed991510a7e1010766dda8c2f4eaa472fd34b5"
+    },
     "hyperframes": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",

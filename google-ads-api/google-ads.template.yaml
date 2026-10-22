@@ -1,0 +1,8 @@
+# Copie para google-ads.yaml (mesma pasta) e preencha. NUNCA commite o google-ads.yaml.
+developer_token: PREENCHER
+client_id: PREENCHER.apps.googleusercontent.com
+client_secret: PREENCHER
+refresh_token: PREENCHER
+# ID da sua MCC, 10 dígitos, sem hífen:
+login_customer_id: "0000000000"
+use_proto_plus: true
